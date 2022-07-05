@@ -5,7 +5,7 @@ Authors: Margot Steijger
 
 ## Content
 In this repository you will find the following:
-1. A link to the OSF page of this project. This contains the preregistration and the scripts used to run the analyses.
+1. A link to the OSF page of this project (https://osf.io/d43a5/). This contains the preregistration and the scripts used to run the analyses.
 2. A document with supplementary results.
 
 ## Acknowledgements
