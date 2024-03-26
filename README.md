@@ -1,5 +1,5 @@
-# ASCC conflict detection and connectivity
-Welcome! This repository contains supplementary information for the poster about conflict detection and connectivity presented at the ASCC conference 2022.
+# ASSC conflict detection and connectivity
+Welcome! This repository contains supplementary information for the poster about conflict detection and connectivity presented at the ASSC conference 2022.
 
 Authors: Margot Steijger
 
